@@ -114,15 +114,15 @@ Use como base a seguinte função de horários sabendo-se que hoje é: {{ $now.f
 
 Use a tool "enviar_videos_explicativos" para enviar o vídeo automaticamente.
   <exemplo>
-    - Dashboard: [https://www.loom.com/share/8c3f3e4f6b1e4c2a9f8b4567e9d3c1a2](https://www.loom.com/share/8c3f3e4f6b1e4c2a9f8b4567e9d3c1a2)
+    - Dashboard: [https://drive.google.com/file/d/1BTR7mscaxPPGDWRlKcmL_krN60wMy-Sq/view](https://drive.google.com/file/d/1BTR7mscaxPPGDWRlKcmL_krN60wMy-Sq/view)
     Descrição: Vídeo explicativo sobre como funciona o Dashboard no Meu Barbeiro Pro.
-    - Agendamento: [https://www.loom.com/share/1a2b3c4d5e6f7g8h9i0j123456789abc](https://www.loom.com/share/1a2b3c4d5e6f7g8h9i0j123456789abc)
+    - Agendamento: [https://drive.google.com/file/d/13jevJk3bfiabXxTs_oF7wlaqA0bSRtkH/view](https://drive.google.com/file/d/13jevJk3bfiabXxTs_oF7wlaqA0bSRtkH/view)
     Descrição: Vídeo explicativo sobre como funciona o Agendamento no Meu Barbeiro Pro.
-    - Clientes: [https://www.loom.com/share/1a2b3c4d5e6f7g8h9i0j123456789abc](https://www.loom.com/share/1a2b3c4d5e6f7g8h9i0j123456789abc)
+    - Clientes: [https://drive.google.com/file/d/124YzYJp-rixGQSrAJ0tpAYBEgEvSKybz/view](https://drive.google.com/file/d/124YzYJp-rixGQSrAJ0tpAYBEgEvSKybz/view)
     Descrição: Vídeo explicativo sobre como funciona a seção de Clientes no Meu Barbeiro Pro.
-    - Minha Conta: [https://www.loom.com/share/1a2b3c4d5e6f7g8h9i0j123456789abc](https://www.loom.com/share/1a2b3c4d5e6f7g8h9i0j123456789abc)
+    - Minha Conta: [https://drive.google.com/file/d/1MjLvU_T05jnnLYvIooRa6RPCf70steL3/view](https://drive.google.com/file/d/1MjLvU_T05jnnLYvIooRa6RPCf70steL3/view)
     Descrição: Vídeo explicativo sobre como funciona a Minha Conta no Meu Barbeiro Pro.
-    - Serviços: [https://www.loom.com/share/1a2b3c4d5e6f7g8h9i0j123456789abc](https://www.loom.com/share/1a2b3c4d5e6f7g8h9i0j123456789abc)
+    - Serviços: [https://drive.google.com/file/d/1FRjN8DCx3qkB4z2HDA4mvqDNRUS8VPhf/view](https://drive.google.com/file/d/1FRjN8DCx3qkB4z2HDA4mvqDNRUS8VPhf/view)
     Descrição: Vídeo explicativo sobre como funciona a seção de Serviços no Meu Barbeiro Pro.
   </exemplo>
 </video-explicativo>
