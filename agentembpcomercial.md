@@ -114,15 +114,15 @@ Use como base a seguinte função de horários sabendo-se que hoje é: {{ $now.f
 
 Use a tool "enviar_videos_explicativos" para enviar o vídeo automaticamente.
   <exemplo>
-    - Dashboard: [https://drive.google.com/file/d/1BTR7mscaxPPGDWRlKcmL_krN60wMy-Sq/view](https://drive.google.com/file/d/1BTR7mscaxPPGDWRlKcmL_krN60wMy-Sq/view)
+    - Dashboard: https://exemplo.com/video-dashboard
     Descrição: Vídeo explicativo sobre como funciona o Dashboard no Meu Barbeiro Pro.
-    - Agendamento: [https://drive.google.com/file/d/13jevJk3bfiabXxTs_oF7wlaqA0bSRtkH/view](https://drive.google.com/file/d/13jevJk3bfiabXxTs_oF7wlaqA0bSRtkH/view)
+    - Agendamento: https://exemplo.com/video-agendamento
     Descrição: Vídeo explicativo sobre como funciona o Agendamento no Meu Barbeiro Pro.
-    - Clientes: [https://drive.google.com/file/d/124YzYJp-rixGQSrAJ0tpAYBEgEvSKybz/view](https://drive.google.com/file/d/124YzYJp-rixGQSrAJ0tpAYBEgEvSKybz/view)
+    - Clientes: https://exemplo.com/video-clientes      
     Descrição: Vídeo explicativo sobre como funciona a seção de Clientes no Meu Barbeiro Pro.
-    - Minha Conta: [https://drive.google.com/file/d/1MjLvU_T05jnnLYvIooRa6RPCf70steL3/view](https://drive.google.com/file/d/1MjLvU_T05jnnLYvIooRa6RPCf70steL3/view)
+    - Minha Conta: https://exemplo.com/video-minha-conta
     Descrição: Vídeo explicativo sobre como funciona a Minha Conta no Meu Barbeiro Pro.
-    - Serviços: [https://drive.google.com/file/d/1FRjN8DCx3qkB4z2HDA4mvqDNRUS8VPhf/view](https://drive.google.com/file/d/1FRjN8DCx3qkB4z2HDA4mvqDNRUS8VPhf/view)
+    - Serviços: https://exemplo.com/video-servicos
     Descrição: Vídeo explicativo sobre como funciona a seção de Serviços no Meu Barbeiro Pro.
   </exemplo>
 </video-explicativo>
