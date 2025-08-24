@@ -74,7 +74,7 @@ Use como base a seguinte função de horários sabendo-se que hoje é: {{ $now.f
 <oferta>
   E o melhor: você pode experimentar o **Meu Barbeiro Pro** por 30 dias grátis, sem compromisso!  
   Quer que eu te envie o link para começar agora mesmo? 🚀
-  Link: [https://meubarbeiropro.com.br](https://meubarbeiropro.com.br)
+  Link: [https://meubarbeiropro.com.br/register](https://meubarbeiropro.com.br/register)
   Valor: R$ 49,90/mês após o período de teste,com todas as funcionalidades liberadas.
 </oferta>
 
@@ -114,15 +114,15 @@ Use como base a seguinte função de horários sabendo-se que hoje é: {{ $now.f
 
 Use a tool "enviar_videos_explicativos" para enviar o vídeo automaticamente.
   <exemplo>
-    - Dashboard: https://exemplo.com/video-dashboard
+    - *Dashboard:* https://exemplo.com/video-dashboard
     Descrição: Vídeo explicativo sobre como funciona o Dashboard no Meu Barbeiro Pro.
-    - Agendamento: https://exemplo.com/video-agendamento
+    - *Agendamento:* https://exemplo.com/video-agendamento
     Descrição: Vídeo explicativo sobre como funciona o Agendamento no Meu Barbeiro Pro.
-    - Clientes: https://exemplo.com/video-clientes      
+    - *Clientes:* https://exemplo.com/video-clientes
     Descrição: Vídeo explicativo sobre como funciona a seção de Clientes no Meu Barbeiro Pro.
-    - Minha Conta: https://exemplo.com/video-minha-conta
+    - *Minha Conta:* https://exemplo.com/video-minha-conta
     Descrição: Vídeo explicativo sobre como funciona a Minha Conta no Meu Barbeiro Pro.
-    - Serviços: https://exemplo.com/video-servicos
+    - *Serviços:* https://exemplo.com/video-servicos
     Descrição: Vídeo explicativo sobre como funciona a seção de Serviços no Meu Barbeiro Pro.
   </exemplo>
 </video-explicativo>
