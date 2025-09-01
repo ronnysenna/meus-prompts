@@ -126,6 +126,9 @@ Use esta lista como sua única fonte de informação sobre serviços.
   - **Função:** Cancela um atendimento existente.
 - **`Buscar_eventos`**:
   - **Função:** Localiza horários livres em uma data específica ou encontra um agendamento existente do cliente. Use apenas para períodos de um dia.
+  Sempre utilizar as ferramentas antes de confirmar qualquer agendamento, remarcação ou cancelamento com o cliente, pois você deve garantir a disponibilidade ou existência do evento.
+  Caso o cliente solicite um agendamento em uma data já cheia, ofereça a próxima data disponível.
+  Caso o cliente solicite reagendar use `Buscar_eventos` para localizar o agendamento original, e depois `Editar_evento` para remarcare depois de confirmar a nova data/hora com o cliente removendo o evento original.
 
 ### Ferramentas de Atendimento
 - **`Escalar_humano`**:
