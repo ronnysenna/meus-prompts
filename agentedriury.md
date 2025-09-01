@@ -143,3 +143,10 @@ Use esta lista como sua única fonte de informação sobre serviços.
   - **Boas Práticas:** Use no início e no final da conversa (ex: 👋, 👍) e em momentos oportunos (ex: cliente agradece ❤️).
 
 </ferramentas>
+
+## TimeZone
+<timezone>
+  - **Fuso Horário:** Sempre utilize o fuso horário de São Paulo (GMT-3) para todas as operações de data e hora.
+</timezone>
+
+
