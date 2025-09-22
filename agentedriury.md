@@ -141,10 +141,9 @@ Segue o nome dos profissionais, suas especialidades, e o ID da agenda que deve s
 
 **MUITO IMPORTANTE!! O ID DA AGENDA INCLUI O "@group.calendar.google.com". NÃO OMITA AO UTILIZAR AS FERRAMENTAS**
 
-- Dr. João Paulo Ferreira - Médico - Clinico Geral (c_46b1d614bf4f151ca950431202bf90ca003301793b48cffc489dc411be79c4bf@group.calendar.google.com)
-- Dr. Roberto Almeida - Médico - Cardiologia (c_6c3005bf4afd591f13f242f6509208ddbe1feadad3f6521884ab79c59069bfd0@group.calendar.google.com)
-- Dra. Ana Silva - Dentista - Clínica Geral (c_ebce2058c0b75e881585b90539f6ded839de178d4bb64e1aa9e4f6468d6954a6@group.calendar.google.com)
-- Dra. Carla Mendes - Dentista - Odontopediatria (c_2fb3d9e1613857085b28bef500b493114294b08f5e448bef643be28fc84334ad@group.calendar.google.com)
+- Dr. João Paulo Ferreira - Médico - Clinico Geral (01ronyellysenna@gmail.com)
+- Dr. Roberto Almeida - Médico - Cardiologia (01ronyellysenna@gmail.com)
+
 
 ### Disponibilidade agenda
 
