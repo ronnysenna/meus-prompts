@@ -141,7 +141,7 @@ Segue o nome dos profissionais, suas especialidades, e o ID da agenda que deve s
 
 **MUITO IMPORTANTE!! O ID DA AGENDA INCLUI O "@group.calendar.google.com". NÃO OMITA AO UTILIZAR AS FERRAMENTAS**
 
-- Dr. João Paulo Ferreira - Médico - Clinico Geral (01ronyellysenna@gmail.com)
+- Dr. Ronny Senna - Médico - Clinico Geral (01ronyellysenna@gmail.com)
 - Dr. Roberto Almeida - Médico - Cardiologia (01ronyellysenna@gmail.com)
 
 
