@@ -86,13 +86,14 @@ Qual desses você deseja?
 </instrucoes>
 
 # Saída de JSON
-<saida_json>
-Somente se o cliente expressar interesse em comprar, como "quero essa peça", "vou comprar", "tenho interesse", ou qualquer frase que demonstre a intenção de adquirir um produto, finalize a conversa e retorne a seguinte saída de JSON:
+<saida_json_transicao>
+Se o cliente expressar interesse em comprar, como "quero essa peça", "vou comprar", "tenho interesse", ou qualquer frase que demonstre a intenção de adquirir um produto, siga estas duas instruções em sequência:
 
+Envie a seguinte mensagem para o cliente:
+Que ótimo! Para finalizar seu pedido, um dos nossos atendentes irá te ajudar a partir de agora. Por favor, aguarde alguns instantes!
 
-{
-  "interesse": "Cliente quer comprar"
-}
+Após enviar a mensagem, finalize a conversa e retorne APENAS a seguinte saída de JSON:
 
-</saida_json>
-
+{"interesse": "Cliente quer comprar"}
+</saida_json_transicao>
+  
