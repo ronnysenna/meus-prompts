@@ -68,11 +68,14 @@ Use a tool "Google Sheets" para buscar informações atualizadas de produtos, in
 
 # Saída de JSON
 <saida_json_transicao>
-Se o cliente expressar interesse em comprar (ex: "pois vou querer", "quero essa", "quero essa peça", "vou comprar", "tenho interesse", "quero essa peça aqui", "quero essa peça específica", "quero 2 dessa", etc), siga a sequência:
+Se o cliente expressar interesse em comprar, responda enviando o seguinte JSON completo e pronto para uso. O JSON deve conter a mensagem para o cliente e a informação de interesse, permitindo que o n8n separe os fluxos.
 
-1.  Envie a seguinte mensagem ao cliente:
-    `Que ótimo! Para finalizar seu pedido, um dos nossos atendentes irá te ajudar a partir de agora. Por favor, aguarde alguns instantes!`
+Exemplos de expressões de interesse em comprar: "pois vou querer", "quero essa", "quero essa peça", "vou comprar", "tenho interesse", "quero essa peça aqui", "quero essa peça específica", "quero 2 dessa", etc.
 
-2.  Após enviar a mensagem, finalize a conversa retornando **APENAS** o seguinte JSON:
-    `{"interesse": "Cliente quer comprar"}`
+Exemplo de saída:
+{
+  "mensagem_cliente": "Que ótimo! Para finalizar seu pedido, um dos nossos atendentes irá te ajudar a partir de agora. Por favor, aguarde alguns instantes!",
+  "status_compra": "Cliente quer comprar"
+}
 </saida_json_transicao>
+
