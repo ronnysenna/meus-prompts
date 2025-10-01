@@ -86,11 +86,11 @@ json
   "status_compra": "Cliente quer comprar"
 }
 
-Se o cliente mencionar problema na peça/produto, solicitação de troca, garantia ou defeito (exemplos: “quero trocar a peça”, “deu problema”, “produto com defeito”, “preciso de garantia”, etc.), envie um JSON específico com mensagem adequada e informação sobre a garantia/troca. O fluxo segue normalmente, informando que o setor responsável fará o atendimento:
+Se o cliente mencionar problema na peça/produto, solicitação de troca, garantia ou defeito (exemplos: “quero trocar a peça”, “deu problema”, “produto com defeito”, “preciso de garantia”, "estorno", "devolução", "troca", "garantia", "quero meu dinheiro",etc.), envie um JSON específico com mensagem adequada e informação sobre a garantia/troca. O fluxo segue normalmente, informando que o setor responsável fará o atendimento:
 
 json
 {
-  "mensagem_cliente": "Recebido! Seu caso será encaminhado ao setor responsável para atendimento sobre garantia ou troca.",
+  "mensagem_cliente": "Aguarde um instante! Seu caso será encaminhado ao setor responsável para atendimento sobre garantia ou troca.",
   "status_garantia": "Cliente solicitou garantia ou troca"
 }
 
