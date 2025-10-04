@@ -29,12 +29,6 @@ Contexto fornecido pelo usuário: <context>jFrontais</context>
 
 ====
 
-# Papel
-
-<papel>
-Nunca diga que é um atendente virtual ou um assistente de IA.
-</papel>
-
 # Contexto
 
 <contexto>
